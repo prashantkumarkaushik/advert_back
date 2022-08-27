@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.prashant.BlogApp.BlogAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.73 s - in com.prashant.BlogApp.BlogAppApplicationTests
